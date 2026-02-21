@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What specific actions must the Client take for the Attorney's obligations to commence, and what consequences arise if these actions are not completed?",
+    "expected_answer": "The Client must return a signed copy of the Agreement and pay the deposit as outlined in paragraph three. If these actions are not completed, the Agreement will not take effect, and the Attorney will have no obligation to provide legal services.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "ba81d29d-f6c8-4f6d-b1da-22e9b5ba018b"
+  },
+  {
+    "question": "What are the Client's responsibilities regarding communication and cooperation with the Attorney, and what are the implications of failing to meet these responsibilities?",
+    "expected_answer": "The Client must be truthful, cooperate in case preparation, appear for depositions and Court appearances, keep the Attorney informed of developments, and pay bills on time. Failing to meet these responsibilities may hinder the Attorney's ability to represent the Client effectively.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "ba81d29d-f6c8-4f6d-b1da-22e9b5ba018b"
+  },
+  {
+    "question": "In what scenario might the retainer fee deposit exceed the normal amount of $10,000.00, and what should the Client expect in such cases?",
+    "expected_answer": "The retainer fee deposit may exceed $10,000.00 in cases with pending hearing dates or those requiring extraordinary immediate efforts. The specific larger retainer amount will be specified at the end of Section 2 if applicable.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "ba81d29d-f6c8-4f6d-b1da-22e9b5ba018b"
+  },
+  {
+    "question": "Can the Attorney compromise the Client's claim without prior consent, and what must the Client do before making any compromises?",
+    "expected_answer": "No, the Attorney cannot compromise the Client's claim without the Client's consent. The Client must discuss any potential compromises with the Attorney in advance.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "ba81d29d-f6c8-4f6d-b1da-22e9b5ba018b"
+  },
+  {
+    "question": "What is the role of the Firm Administrator concerning the retainer fee deposit, and what is the process for submitting this payment?",
+    "expected_answer": "The Firm Administrator is responsible for holding the retainer fee deposit in trust. The Client must remit the retainer and any replenishing payments to the Firm Administrator for deposit.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "ba81d29d-f6c8-4f6d-b1da-22e9b5ba018b"
+  },
+  {
+    "question": "What are the specific responsibilities of the non-prevailing party regarding costs and fees in the arbitration process, and how are these costs determined?",
+    "expected_answer": "The non-prevailing party is responsible for paying all costs incurred by the prevailing party, as well as for all billable time related to the arbitration and enforcement of any award. The applicable rate for billable time is specified in the agreement.",
+    "seed_source": "document 1.pdf",
+    "seed_chunk_id": "0fad451a-c089-446b-8feb-1e84739e8c19"
+  },
+  {
+    "question": "What rights are waived by both the Lawyer and Client when they agree to arbitration, and what are the potential financial implications of this choice?",
+    "expected_answer": "By agreeing to arbitration, both parties waive their rights to file lawsuits, engage in broad discovery, have a trial by judge or jury, and appeal. Arbitration may be more expensive than litigation and often entails significant up-front costs.",
+    "seed_source": "document 1.pdf",
+    "seed_chunk_id": "0fad451a-c089-446b-8feb-1e84739e8c19"
+  },
+  {
+    "question": "What is the role of the American Arbitration Association (AAA) in the arbitration process as outlined in the agreement, and what location is specified for the arbitration proceedings?",
+    "expected_answer": "The AAA administers the arbitration in New Orleans, Louisiana, under the Commercial Arbitration Rules and Expedited Procedures effective at the time of the dispute.",
+    "seed_source": "document 1.pdf",
+    "seed_chunk_id": "0fad451a-c089-446b-8feb-1e84739e8c19"
+  },
+  {
+    "question": "What does the agreement state regarding the advisement of the Client to seek independent legal counsel, and why is this important?",
+    "expected_answer": "The agreement advises the Client of the desirability of seeking independent legal counsel regarding the arbitration provision, providing them with a reasonable opportunity to do so, which is important to ensure the Client fully understands the implications of waiving their rights.",
+    "seed_source": "document 1.pdf",
+    "seed_chunk_id": "0fad451a-c089-446b-8feb-1e84739e8c19"
+  },
+  {
+    "question": "How does the agreement address the situation if the Louisiana State Bar Association (LSBA) declines or rejects arbitration, and what is the effect of this on the dispute resolution process?",
+    "expected_answer": "If the LSBA declines or rejects arbitration, the dispute shall still be resolved according to the arbitration provisions outlined in the agreement, indicating that the arbitration process remains in effect regardless of LSBA's decision.",
+    "seed_source": "document 1.pdf",
+    "seed_chunk_id": "0fad451a-c089-446b-8feb-1e84739e8c19"
+  },
+  {
+    "question": "What type of funding arrangement has been established for the case, and which entity is involved in seeking this funding?",
+    "expected_answer": "The funding arrangement for the case is being sought from the Mexican Consulate.",
+    "seed_source": "document 2.pdf",
+    "seed_chunk_id": "6b4b01b0-4e6d-44a1-96fe-44ad76d526a5"
+  },
+  {
+    "question": "Who is responsible for paying for the legal representation in this case, and what is the implication of this arrangement on the attorney-client relationship?",
+    "expected_answer": "I am not responsible for paying for my representation, and the third party funding the case cannot interfere with the decisions made by my attorney and me.",
+    "seed_source": "document 2.pdf",
+    "seed_chunk_id": "6b4b01b0-4e6d-44a1-96fe-44ad76d526a5"
+  },
+  {
+    "question": "What document has been signed to formalize the funding arrangement, and what does this document pertain to?",
+    "expected_answer": "A separate agreement has been signed detailing the funding arrangement.",
+    "seed_source": "document 2.pdf",
+    "seed_chunk_id": "6b4b01b0-4e6d-44a1-96fe-44ad76d526a5"
+  },
+  {
+    "question": "Can the third party that is funding the case influence the decisions made by the attorney or the client, and what does this mean for the attorney's independence?",
+    "expected_answer": "No, the third party cannot interfere with the decisions made by my attorney and me, which preserves the attorney's independence.",
+    "seed_source": "document 2.pdf",
+    "seed_chunk_id": "6b4b01b0-4e6d-44a1-96fe-44ad76d526a5"
+  },
+  {
+    "question": "What implications does receiving funding from a third party have on my obligations related to legal fees?",
+    "expected_answer": "Receiving funding from a third party means I will not be responsible for paying for my representation.",
+    "seed_source": "document 2.pdf",
+    "seed_chunk_id": "6b4b01b0-4e6d-44a1-96fe-44ad76d526a5"
+  },
+  {
+    "question": "What are the exceptions to the rule prohibiting communication with third parties supporting the client, and under what conditions can such communication occur?",
+    "expected_answer": "The exceptions are extremely rare and occur at the sole discretion of the attorney. Typically, the rule is that we will not respond to inquiries from third parties regardless of their trustworthiness.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "c6f1d520-21fd-482e-adc5-2eea5ff96f10"
+  },
+  {
+    "question": "What specific billing increments should be used when recording time spent on the client's case, and how should this time be rounded?",
+    "expected_answer": "Time should be billed in 1/10 of an hour increments, which is six-minute increments, and should be rounded to the nearest such increment.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "c6f1d520-21fd-482e-adc5-2eea5ff96f10"
+  },
+  {
+    "question": "What factors contribute to the determination of whether the legal fees charged to the client are considered reasonable?",
+    "expected_answer": "Factors include the attorney's ability, training, education, experience, professional standing, skill, as well as the difficulty, intricacy, importance, and time required to perform the work.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "c6f1d520-21fd-482e-adc5-2eea5ff96f10"
+  },
+  {
+    "question": "Can third parties act as a conduit for passing confidential information to or from the client, and what is the general expectation in this regard?",
+    "expected_answer": "No, third parties may not act as conduits for passing confidential information to or from the client. The general expectation is that inquiries from third parties will not be responded to at all.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "c6f1d520-21fd-482e-adc5-2eea5ff96f10"
+  },
+  {
+    "question": "What types of activities are included in the billing for time spent on the client's case by attorneys and legal assistants/paralegals?",
+    "expected_answer": "Activities include time spent on phone calls to or from the client, reviewing or handling incoming documents from various parties, and drafting, preparing, editing, or reviewing pleadings, letters, and documents.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "c6f1d520-21fd-482e-adc5-2eea5ff96f10"
+  },
+  {
+    "question": "What law governs this Agreement and how does it affect the interpretation of its provisions?",
+    "expected_answer": "This Agreement is governed by the law of the State of Nevada, which will apply to any questions regarding the meaning of its provisions.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "91558a00-9147-4465-b211-a0ab39918a92"
+  },
+  {
+    "question": "What is the purpose of this Agreement and how does it relate to attorney-client interactions?",
+    "expected_answer": "The purpose of this Agreement is to serve as a formal legal contract for attorney services, protecting both the client and the attorney and preventing misunderstandings.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "91558a00-9147-4465-b211-a0ab39918a92"
+  },
+  {
+    "question": "What should a client do if they do not understand the terms of the Agreement or find that it does not include all discussed agreements?",
+    "expected_answer": "If a client does not understand the terms of the Agreement or believes it lacks discussed agreements, they should bring it to the attorney's attention and ensure the written Agreement reflects all terms.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "91558a00-9147-4465-b211-a0ab39918a92"
+  },
+  {
+    "question": "What rights does a client have regarding this Agreement before signing it?",
+    "expected_answer": "A client has the absolute right to discuss this Agreement with independent counsel or any other advisor before signing, and they are encouraged to do so.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "91558a00-9147-4465-b211-a0ab39918a92"
+  },
+  {
+    "question": "How does this Agreement affect the law regarding attorney’s liens and fee disputes?",
+    "expected_answer": "This Agreement may vary the law that is otherwise applicable to attorney’s liens and the resolution of fee disputes, meaning its terms can alter standard legal practices in these areas.",
+    "seed_source": "document 3.pdf",
+    "seed_chunk_id": "91558a00-9147-4465-b211-a0ab39918a92"
+  },
+  {
+    "question": "What are the conditions under which the Lawyer can bill the Client, and what happens if the Client fails to pay a bill on time?",
+    "expected_answer": "The Lawyer can bill the Client either upon written request or periodically at the Lawyer's discretion. If the Client fails to pay a bill within 5 days, they agree to pay 12% compound annual interest charged every 30 days.",
+    "seed_source": "document 1.pdf",
+    "seed_chunk_id": "c55670c8-a3cd-438c-90f5-62bd1947e14d"
+  },
+  {
+    "question": "How does the Lawyer's billing structure differ from a contingent fee arrangement, and what obligations does the Client have regarding payment?",
+    "expected_answer": "The Lawyer's billing structure is not contingent on the outcome of the Matter, meaning the Client must pay Fees and Costs regardless of the results obtained. The Client is obligated to pay irrespective of any promises or guarantees about outcomes.",
+    "seed_source": "document 1.pdf",
+    "seed_chunk_id": "c55670c8-a3cd-438c-90f5-62bd1947e14d"
+  },
+  {
+    "question": "What is the purpose of an advance deposit and how does the Lawyer handle it according to the agreement?",
+    "expected_answer": "The advance deposit is intended to cover future Fees and Costs, and if requested by the Lawyer, it will be placed in trust and applied toward the final payment or interim periodic invoices at the Lawyer's discretion.",
+    "seed_source": "document 1.pdf",
+    "seed_chunk_id": "c55670c8-a3cd-438c-90f5-62bd1947e14d"
+  },
+  {
+    "question": "What types of costs is the Client responsible for, and under what circumstances might the Lawyer advance those costs?",
+    "expected_answer": "The Client is responsible for all costs, including filing fees, expert fees, and travel expenses. The Lawyer may advance such costs, particularly when necessary to cover immediate expenses related to the Matter.",
+    "seed_source": "document 1.pdf",
+    "seed_chunk_id": "c55670c8-a3cd-438c-90f5-62bd1947e14d"
+  },
+  {
+    "question": "What is the procedure for resolving disputes between the Lawyer and Client as outlined in the agreement?",
+    "expected_answer": "Any dispute, controversy, or claim arising between the Lawyer and Client shall be resolved by arbitration, as specified in the agreement.",
+    "seed_source": "document 1.pdf",
+    "seed_chunk_id": "c55670c8-a3cd-438c-90f5-62bd1947e14d"
+  }
+]
