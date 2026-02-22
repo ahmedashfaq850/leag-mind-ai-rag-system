@@ -59,7 +59,11 @@ def create_app() -> FastAPI:
         # 5) use LLM-cited sources only; validate against actual chunk file names
         valid_files = {c.get("metadata", {}).get("file_name") for c in top_chunks if c.get("metadata", {}).get("file_name")}
         sources = sorted(set(s for s in (output.sources_used or []) if s in valid_files))
-        cache.save(request.question, output.answer)
+
+        # don't cache "no info" fallback answers to avoid polluting the cache
+        _no_info = "I don't have enough information in the provided documents to answer this."
+        if output.answer.strip() != _no_info:
+            cache.save(request.question, output.answer)
 
         debug_payload = None
         if request.debug:

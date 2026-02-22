@@ -6,6 +6,7 @@ from llama_index.core import VectorStoreIndex, StorageContext
 from llama_index.vector_stores.faiss import FaissVectorStore
 
 from backend.core.logging import get_logger
+from backend.core.config import get_settings
 from backend.core.exceptions import IndexBuildError
 from backend.core.constants import MANIFEST_FILE, BM25_FILE, NODES_FILE
 from backend.core.embeddings.factory import get_llama_embed_model
