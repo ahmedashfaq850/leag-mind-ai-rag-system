@@ -2,9 +2,7 @@
 
 ## Project Demo
 
-<video src="assets/video-demo.mp4" controls width="100%">
-  Your browser does not support the video tag. [Download the demo video](assets/video-demo.mp4).
-</video>
+https://github.com/user-attachments/assets/f48b9c1b-03b5-4313-bb8a-76dfcb40db9e
 
 ## Architecture Flow Diagram
 
